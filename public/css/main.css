@@ -1,0 +1,29 @@
+.height{
+    min-height: 50vh;
+}
+.title-underline{
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
+.background{
+    background-image: url("../IMG/water.jpeg");
+    background-size: 100%;
+}
+.image{
+    height:200px;
+    width: 300px;
+}
+.width{
+    width:500px;
+}
+.color{
+    background-color: darkred;
+}
+.footer-color{
+    background-color: black;
+}
+.bord{
+    height:200px;
+    width: 300px;
+}
